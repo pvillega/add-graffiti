@@ -5,7 +5,7 @@ do
 	D=${PARAMS[0]}
 	M=${PARAMS[1]}
 	Y=${PARAMS[2]}
-	I=180
+	I=280
 	if [ ! -d "$Y" ]; then
     	mkdir $Y
 	fi	
